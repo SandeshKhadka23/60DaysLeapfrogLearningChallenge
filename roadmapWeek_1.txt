@@ -1,0 +1,127 @@
+🌟 AI Challenge Week 1: Foundation Building (Day 1–7)
+Goal: Learn basic Python programming and essential math (linear algebra, probability, and calculus intro).
+
+✅ Day 1: Python Basics I – Syntax & Variables
+Learn:
+
+Variables, Data Types (int, float, string, bool)
+
+Input/Output
+
+Basic Operators (+, -, *, /, **, //, %)
+
+Practice:
+
+Simple calculator
+
+Swap two numbers
+
+Resource: Programiz Python Tutorial
+
+✅ Day 2: Python Basics II – Control Flow
+Learn:
+
+if, else, elif
+
+Logical and Comparison Operators
+
+Practice:
+
+Grade checker
+
+Even/odd, positive/negative
+
+Mini challenge: Write a number guessing game.
+
+✅ Day 3: Python Loops and Functions
+Learn:
+
+for and while loops
+
+break, continue
+
+Functions: def, parameters, return values
+
+Practice:
+
+Factorial calculator
+
+Fibonacci generator
+
+Mini challenge: Prime number checker using function.
+
+✅ Day 4: Python Lists, Tuples, and Dictionaries
+Learn:
+
+List operations (append, pop, slice)
+
+Tuples (immutability)
+
+Dictionaries (key-value pairs)
+
+Practice:
+
+Student grade storage system
+
+Simple contact book
+
+Extra: Practice with nested loops and lists.
+
+✅ Day 5: Math for AI – Linear Algebra Basics
+Learn:
+
+Scalars, Vectors, Matrices
+
+Matrix addition, scalar multiplication
+
+Dot product
+
+Tool: Use NumPy for basic vector/matrix operations
+
+Practice:
+
+Represent 2D vectors
+
+Calculate vector magnitude and dot product
+
+✅ Day 6: Math for AI – Probability & Statistics Basics
+Learn:
+
+Mean, Median, Mode
+
+Probability basics (independent events, conditional prob.)
+
+Practice:
+
+Dice and card problems
+
+Write Python code to calculate average from a list of numbers.
+
+✅ Day 7: Recap + Build Mini Project
+Review all topics
+
+Project Idea: "Simple Student Analyzer"
+
+Takes marks as input
+
+Uses a dictionary to store student info
+
+Calculates average, grade, and gives remarks
+
+Uses conditions, loops, functions
+
+🔧 Tools to Use:
+IDE: Replit or VS Code
+
+Math Reference: Khan Academy – Linear Algebra & Probability
+
+Python Practice: HackerRank Python Challenges
+
+🔁 Your Task:
+✅ Stick to daily learning + coding for 2–3 hours.
+
+🧠 Keep a daily log (you can even post on Twitter or a notebook).
+
+📅 Come back on Day 7 night or Day 8 morning for Week 2 roadmap!
+
+
