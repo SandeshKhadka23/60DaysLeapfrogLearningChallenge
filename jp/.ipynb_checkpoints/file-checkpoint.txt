@@ -1,0 +1,10 @@
+Sandesh,87
+Aarav,91
+Bina,76
+Kritika,82
+Niraj,67
+Sajina,95
+Roshan,58
+Suman,73
+Meena,88
+Dipesh,69
