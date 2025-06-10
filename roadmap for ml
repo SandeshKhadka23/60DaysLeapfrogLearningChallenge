@@ -1,0 +1,126 @@
+Machine Learning Learning Roadmap for Sandesh (PDF Outline)
+Phase 1: Foundation (Beginner Level)
+Duration: 1-2 Months
+Math Topics:
+
+Basic Linear Algebra: Vectors, matrices, dot products
+
+Descriptive Statistics: Mean, median, variance, standard deviation
+
+Probability: Basics, normal distribution
+
+Python Libraries:
+
+NumPy (numerical operations)
+
+Pandas (data manipulation)
+
+Matplotlib/Seaborn (visualization)
+
+scikit-learn (basic ML models)
+
+Projects:
+
+Data Cleaning & EDA:
+
+Clean datasets (e.g., Titanic, Iris).
+
+Create visualizations (histograms, scatter plots).
+
+Simple ML Models:
+
+Linear regression (predict housing prices).
+
+Classification (Iris species/Titanic survival).
+
+Goal:
+
+Comfort with Python libraries and basic data workflows.
+
+Phase 2: Intermediate Understanding
+Duration: 2-3 Months
+Math Topics:
+
+Linear Algebra: Eigenvalues, SVD
+
+Probability & Statistics: Bayes’ theorem, hypothesis testing
+
+Calculus: Partial derivatives, chain rule
+
+Optimization: Gradient descent, learning rate tuning
+
+Learning Focus:
+
+Internal mechanics of algorithms (e.g., how logistic regression works).
+
+Feature scaling, cross-validation, metrics (precision/recall, ROC-AUC).
+
+Projects:
+
+Algorithm Implementation:
+
+Code logistic regression/k-NN from scratch in Python.
+
+Model Tuning:
+
+Hyperparameter optimization (GridSearchCV in scikit-learn).
+
+Compare models (e.g., SVM vs. decision trees).
+
+Goal:
+
+Debug/tweak models mathematically.
+
+Phase 3: Advanced Topics (Research/Industry)
+Duration: 3-6 Months
+Math Topics:
+
+Vector Calculus: Jacobians, Hessians
+
+Advanced Probability: Markov models, Poisson processes
+
+Statistics: Bayesian inference
+
+Deep Linear Algebra: Tensor operations
+
+Learning Focus:
+
+Neural networks (MLPs, CNNs, RNNs).
+
+Frameworks: TensorFlow/PyTorch.
+
+Concepts: Backpropagation, regularization (Dropout/L2), optimizers (Adam).
+
+Projects:
+
+Deep Learning:
+
+CNN for image classification (CIFAR-10).
+
+RNN for text generation/time-series forecasting.
+
+Research Exploration:
+
+Reproduce results from a seminal paper (e.g., ResNet, Transformers).
+
+Build a mini-DL framework (autograd system).
+
+Goal:
+
+Contribute to research or deploy complex systems (e.g., object detection chatbots).
+
+Resource Recommendations:
+Math: 3Blue1Brown (YouTube), "Mathematics for Machine Learning" (book).
+
+Python: Kaggle Micro-courses, scikit-learn documentation.
+
+Deep Learning: fast.ai (practical), Andrew Ng’s Deep Learning Specialization (theory).
+
+Key Principles:
+Code Daily: Use GitHub to track projects.
+
+Math First: Derive equations before coding.
+
+Iterate: Start simple → add complexity (e.g., linear regression → polynomial → regularization).
+
+
